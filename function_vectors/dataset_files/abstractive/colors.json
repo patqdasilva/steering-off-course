@@ -1,0 +1,434 @@
+[
+    {
+        "input": " sunflower",
+        "output": " yellow"
+    },
+    {
+        "input": " ocean",
+        "output": " blue"
+    },
+    {
+        "input": " grass",
+        "output": " green"
+    },
+    {
+        "input": " butter",
+        "output": " yellow"
+    },
+    {
+        "input": " bone",
+        "output": " white"
+    },
+    {
+        "input": " ivory",
+        "output": " white"
+    },
+    {
+        "input": " sky",
+        "output": " blue"
+    },
+    {
+        "input": " pineapple",
+        "output": " yellow"
+    },
+    {
+        "input": " tomato",
+        "output": " red"
+    },
+    {
+        "input": " strawberry",
+        "output": " red"
+    },
+    {
+        "input": " rose",
+        "output": " red"
+    },
+    {
+        "input": " blood",
+        "output": " red"
+    },
+    {
+        "input": " heart",
+        "output": " red"
+    },
+    {
+        "input": " pumpkin",
+        "output": " orange"
+    },
+    {
+        "input": " carrot",
+        "output": " orange"
+    },
+    {
+        "input": " cheese",
+        "output": " yellow"
+    },
+    {
+        "input": " sun",
+        "output": " yellow"
+    },
+    {
+        "input": " lemon",
+        "output": " yellow"
+    },
+    {
+        "input": " corn",
+        "output": " yellow"
+    },
+    {
+        "input": " frog",
+        "output": " green"
+    },
+    {
+        "input": " leaf",
+        "output": " green"
+    },
+    {
+        "input": " blueberry",
+        "output": " blue"
+    },
+    {
+        "input": " jeans",
+        "output": " blue"
+    },
+    {
+        "input": " bat",
+        "output": " black"
+    },
+    {
+        "input": " crow",
+        "output": " black"
+    },
+    {
+        "input": " raven",
+        "output": " black"
+    },
+    {
+        "input": " coal",
+        "output": " black"
+    },
+    {
+        "input": " paper",
+        "output": " white"
+    },
+    {
+        "input": " sugar",
+        "output": " white"
+    },
+    {
+        "input": " milk",
+        "output": " white"
+    },
+    {
+        "input": "snow",
+        "output": "white"
+    },
+    {
+        "input": " sheep",
+        "output": " white"
+    },
+    {
+        "input": " flamingo",
+        "output": " pink"
+    },
+    {
+        "input": " cherry blossoms",
+        "output": " pink"
+    },
+    {
+        "input": " soil",
+        "output": " brown"
+    },
+    {
+        "input": " stone",
+        "output": " grey"
+    },
+    {
+        "input": " elephant",
+        "output": " grey"
+    },
+    {
+        "input": " seal",
+        "output": " grey"
+    },
+    {
+        "input": " plum",
+        "output": " purple"
+    },
+    {
+        "input": " lavender",
+        "output": " purple"
+    },
+    {
+        "input": " polar bear",
+        "output": " white"
+    },
+    {
+        "input": " watermelon",
+        "output": " red"
+    },
+    {
+        "input": " banana",
+        "output": " yellow"
+    },
+    {
+        "input": " orange",
+        "output": " orange"
+    },
+    {
+        "input": " pear",
+        "output": " green"
+    },
+    {
+        "input": " mandarin",
+        "output": " orange"
+    },
+    {
+        "input": " cherry",
+        "output": " red"
+    },
+    {
+        "input": " salt",
+        "output": " white"
+    },
+    {
+        "input": " swan",
+        "output": " white"
+    },
+    {
+        "input": " snow leopard",
+        "output": " white"
+    },
+    {
+        "input": " arctic fox",
+        "output": " white"
+    },
+    {
+        "input": " steel",
+        "output": " grey"
+    },
+    {
+        "input": " clouds",
+        "output": " white"
+    },
+    {
+        "input": " rainclouds",
+        "output": " grey"
+    },
+    {
+        "input": " plants",
+        "output": " green"
+    },
+    {
+        "input": " suit",
+        "output": " black"
+    },
+    {
+        "input": " cocoa",
+        "output": " brown"
+    },
+    {
+        "input": " chocolate",
+        "output": " brown"
+    },
+    {
+        "input": " concrete",
+        "output": " grey"
+    },
+    {
+        "input": " aluminium foil",
+        "output": " grey"
+    },
+    {
+        "input": " pea",
+        "output": " green"
+    },
+    {
+        "input": " rainforest",
+        "output": " green"
+    },
+    {
+        "input": " rice",
+        "output": " white"
+    },
+    {
+        "input": " pasta",
+        "output": " yellow"
+    },
+    {
+        "input": " spinach",
+        "output": " green"
+    },
+    {
+        "input": " broccoli",
+        "output": " green"
+    },
+    {
+        "input": " lime",
+        "output": " green"
+    },
+    {
+        "input": " guacamole",
+        "output": " green"
+    },
+    {
+        "input": " salmon meat",
+        "output": " pink"
+    },
+    {
+        "input": " yoghurt",
+        "output": " white"
+    },
+    {
+        "input": " cottage cheese",
+        "output": " white"
+    },
+    {
+        "input": " feta cheese",
+        "output": " white"
+    },
+    {
+        "input": " matcha",
+        "output": " green"
+    },
+    {
+        "input": " seaweed",
+        "output": " green"
+    },
+    {
+        "input": " garlic",
+        "output": " white"
+    },
+    {
+        "input": " aubergine",
+        "output": " purple"
+    },
+    {
+        "input": " ivy",
+        "output": " green"
+    },
+    {
+        "input": " ruby",
+        "output": " red"
+    },
+    {
+        "input": " flour",
+        "output": " white"
+    },
+    {
+        "input": " baking soda",
+        "output": " white"
+    },
+    {
+        "input": " snowman",
+        "output": " white"
+    },
+    {
+        "input": " gravel",
+        "output": " grey"
+    },
+    {
+        "input": " egg yolk",
+        "output": " yellow"
+    },
+    {
+        "input": " egg",
+        "output": " white"
+    },
+    {
+        "input": " moss",
+        "output": " green"
+    },
+    {
+        "input": " cinnamon",
+        "output": " brown"
+    },
+    {
+        "input": " coconut",
+        "output": " brown"
+    },
+    {
+        "input": " scrambled eggs",
+        "output": " yellow"
+    },
+    {
+        "input": " cucumber",
+        "output": " green"
+    },
+    {
+        "input": " fire extinguisher",
+        "output": " red"
+    },
+    {
+        "input": " duckling",
+        "output": " yellow"
+    },
+    {
+        "input": " panther",
+        "output": " black"
+    },
+    {
+        "input": " pine tree",
+        "output": " green"
+    },
+    {
+        "input": " tooth",
+        "output": " white"
+    },
+    {
+        "input": " feces",
+        "output": " brown"
+    },
+    {
+        "input": " urine",
+        "output": " yellow"
+    },
+    {
+        "input": " iceberg",
+        "output": " white"
+    },
+    {
+        "input": " school bus",
+        "output": " yellow"
+    },
+    {
+        "input": " chick",
+        "output": " yellow"
+    },
+    {
+        "input": " sails",
+        "output": " white"
+    },
+    {
+        "input": " wood",
+        "output": " brown"
+    },
+    {
+        "input": " lady bug",
+        "output": " red"
+    },
+    {
+        "input": " daffodil",
+        "output": " yellow"
+    },
+    {
+        "input": " dandelion",
+        "output": " yellow"
+    },
+    {
+        "input": " cardboard",
+        "output": " brown"
+    },
+    {
+        "input": " blackboard",
+        "output": " black"
+    },
+    {
+        "input": " basil",
+        "output": " green"
+    },
+    {
+        "input": " parsley",
+        "output": " green"
+    }
+]
