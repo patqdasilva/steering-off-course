@@ -9,13 +9,13 @@
 1. Some models require newer versions of huggingface than others.
 2. Please follow the official model cards of these models (e.g. [OLMo2](https://huggingface.co/allenai/OLMo-2-1124-7B)) to determine when this is the case.
 ## Repository Structure
-- ./DoLA, ./function_vectors, and ./icl_task_vectors
+- [./DoLA](https://github.com/patqdasilva/steering-off-course/tree/main/DoLa), [./function_vectors](https://github.com/patqdasilva/steering-off-course/tree/main/function_vectors), and [./icl_task_vectors](https://github.com/patqdasilva/steering-off-course/tree/main/icl_task_vectors)
     - These contain each codebase we use from their corresponding papers.
-- ./notebooks
+- [./notebooks](https://github.com/patqdasilva/steering-off-course/tree/main/notebooks)
     - contains scripts for replicating our results, detailed below.
-- ./config.py
+- [./config.py](https://github.com/patqdasilva/steering-off-course/blob/main/config.py)
     - contains helpful information about model paths and naming conventions
-- ./figures
+- [./figures](https://github.com/patqdasilva/steering-off-course/tree/main/figures)
     - contains all the figures from all the results from all the methods, models, and tasks we tested.
     - To replicate our plots, please use each of the ./notebooks/plot*.ipynb
 
