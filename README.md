@@ -94,3 +94,17 @@ python ./logit_lens/logit_lens.py \
   --n_shots [n_shots] \ # number of examples to be included in the prompt
   --max_samples [max_samples] # maximum number of samples
 ```
+
+# Citing our Work
+Please use the following to cite our preprint:
+```bibtex
+@misc{dasilva2025steeringcoursereliabilitychallenges,
+      title={Steering off Course: Reliability Challenges in Steering Language Models}, 
+      author={Patrick Queiroz Da Silva and Hari Sethuraman and Dheeraj Rajagopal and Hannaneh Hajishirzi and Sachin Kumar},
+      year={2025},
+      eprint={2504.04635},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.04635}, 
+}
+```
