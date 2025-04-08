@@ -1,7 +1,7 @@
 # *Steering off Course*: Reliability Challenges in Steering Language Models
 ### Official code for ***Steering off Course*: Reliability Challenges in Steering Language Models**
 
-## [Arxiv Preprint](https://arxiv.org/)
+## [Arxiv Preprint](https://arxiv.org/abs/2504.04635)
 
 # Getting Started
 1. Create a fresh environment using each repository's guidelines to ensure version stability
