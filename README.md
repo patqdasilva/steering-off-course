@@ -1,7 +1,7 @@
 # *Steering off Course*: Reliability Challenges in Steering Language Models
 ### Official code for ***Steering off Course*: Reliability Challenges in Steering Language Models**
 
-## [Arxiv Preprint](https://arxiv.org/abs/2504.04635)
+## [ACL Publication](https://aclanthology.org/2025.acl-long.974/)
 
 # Getting Started
 1. Create a fresh environment using each repository's guidelines to ensure version stability
@@ -98,13 +98,26 @@ python ./logit_lens/logit_lens.py \
 # Citing our Work
 Please use the following to cite our preprint:
 ```bibtex
-@misc{dasilva2025steeringcoursereliabilitychallenges,
-      title={Steering off Course: Reliability Challenges in Steering Language Models}, 
-      author={Patrick Queiroz Da Silva and Hari Sethuraman and Dheeraj Rajagopal and Hannaneh Hajishirzi and Sachin Kumar},
-      year={2025},
-      eprint={2504.04635},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2504.04635}, 
+@inproceedings{silva-etal-2025-steering,
+    title = "Steering off Course: Reliability Challenges in Steering Language Models",
+    author = "Da Silva, Patrick Queiroz  and
+      Sethuraman, Hari  and
+      Rajagopal, Dheeraj  and
+      Hajishirzi, Hannaneh  and
+      Kumar, Sachin",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.974/",
+    doi = "10.18653/v1/2025.acl-long.974",
+    pages = "19856--19882",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Steering methods for language models (LMs) have gained traction as lightweight alternatives to fine-tuning, enabling targeted modifications to model activations. However, prior studies primarily report results on a few models, leaving critical gaps in understanding the robustness of these methods. In this work, we systematically examine three prominent steering methods{---}DoLa, function vectors, and task vectors. In contrast to the original studies, which evaluated a handful of models, we test up to 36 models belonging to 14 families with sizes ranging from 1.5B to 70B parameters. Our experiments reveal substantial variability in the effectiveness of the steering approaches, with a large number of models showing no improvement and at times degradation in steering performance. Our analysis reveals fundamental flaws in the assumptions underlying these methods, challenging their reliability as scalable steering solutions."
 }
 ```
